@@ -1,0 +1,5 @@
+com\test\appium\test\BaseClass.class
+com\test\appium\test\Tests.class
+com\test\appium\test\SendEmail.class
+com\test\appium\test\SendEmail$1.class
+com\test\appium\test\Report.class

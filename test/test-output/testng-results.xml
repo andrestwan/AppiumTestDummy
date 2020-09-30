@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="171742" started-at="2020-09-29T06:36:49Z" finished-at="2020-09-29T06:39:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="171742" started-at="2020-09-29T06:36:49Z" finished-at="2020-09-29T06:39:41Z">
+      <class name="com.test.appium.test.Tests">
+        <test-method status="PASS" signature="reportSetup()[pri:0, instance:com.test.appium.test.Tests@670b40af]" name="reportSetup" is-config="true" duration-ms="621" started-at="2020-09-29T13:36:49Z" finished-at="2020-09-29T13:36:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method status="PASS" signature="BaseClass()[pri:0, instance:com.test.appium.test.Tests@670b40af]" name="BaseClass" is-config="true" duration-ms="16593" started-at="2020-09-29T13:36:49Z" finished-at="2020-09-29T13:37:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BaseClass -->
+        <test-method status="PASS" signature="testapp()[pri:0, instance:com.test.appium.test.Tests@670b40af]" name="testapp" duration-ms="3018" started-at="2020-09-29T13:37:06Z" finished-at="2020-09-29T13:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testapp -->
+        <test-method status="PASS" signature="test1()[pri:1, instance:com.test.appium.test.Tests@670b40af]" name="test1" duration-ms="147959" started-at="2020-09-29T13:37:09Z" finished-at="2020-09-29T13:39:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="teatDown()[pri:0, instance:com.test.appium.test.Tests@670b40af]" name="teatDown" is-config="true" duration-ms="4126" started-at="2020-09-29T13:39:37Z" finished-at="2020-09-29T13:39:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teatDown -->
+        <test-method status="PASS" signature="reportTearDown()[pri:0, instance:com.test.appium.test.Tests@670b40af]" name="reportTearDown" is-config="true" duration-ms="1623" started-at="2020-09-29T13:39:41Z" finished-at="2020-09-29T13:39:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTearDown -->
+      </class> <!-- com.test.appium.test.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
